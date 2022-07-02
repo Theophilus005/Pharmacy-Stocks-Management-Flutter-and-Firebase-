@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "521057577040",
+    "project_id": "mariam-ama-pms",
+    "storage_bucket": "mariam-ama-pms.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521057577040:android:035c44effda71d76624955",
+        "android_client_info": {
+          "package_name": "com.example.pms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521057577040-dcess88tbe7pqmtfjekgjq9r7nv7moea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8SP-9FCUcSkzT-pEsLi2fPojk-wAc-X0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521057577040-dcess88tbe7pqmtfjekgjq9r7nv7moea.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
